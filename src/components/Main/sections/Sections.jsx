@@ -1,7 +1,6 @@
 import { Section2 } from "./Section2";
 import { Section } from "./Section";
 import tv from '../../img/tv.png';
-import img3 from '../../img/appleTV.png';
 import img4 from '../../img/kids.png';
 import mini from '../../video/mini.mp4';
 import mini2 from '../../video/mini2.mp4';
@@ -30,7 +29,7 @@ export function Sections() {
             title: "Watch everywhere",
             sectionText: "Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.",
             srcNameVideo: mini,
-            srcNameImg: img3,
+            srcNameImg: tv,
         },
         {
             sectionType: "rightText",

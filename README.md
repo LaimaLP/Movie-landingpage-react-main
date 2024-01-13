@@ -14,16 +14,16 @@ _website design project_
 
 ## 🌟 About
 
-This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
+This project is for educational porpuses only. Using React components created landing page.
+Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
 Site published at: https://laimalp.github.io/
 
-Design: [BitMovie] (https://www.BitMovie.com/lt/)
 
 ## 🎯 Project features/goals
 
 -   Github pages
--   for desktop and for mobile version
+-   for desktop only
 
 
 ### 🧪 Running tests
