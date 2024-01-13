@@ -1,0 +1,95 @@
+.sectionContainer{
+/* display: grid;
+grid-template-columns: 1fr 1fr;
+grid-template-areas: 'text actions'; */
+display: flex;
+gap:50px;
+align-items: center;
+background-color: black;
+height: 80vh;
+justify-content: center;
+/* border-top: 8px solid rgba(62, 60, 60, 0.525); */
+border-bottom: 8px solid rgba(62, 60, 60, 0.525);
+
+
+}
+.textContainer{
+    width: 40%;
+    /* margin-left: 25%; */
+    color: white;
+
+}
+
+.textContainer p{
+    font-size:1.5rem;
+}
+.mediaContainer{
+    width: 40%;
+    position: relative;
+    display: block;
+
+}
+
+.videoImgCombo{
+    position: relative;
+  align-items: center;
+    height: 80vh;
+
+ 
+
+}
+video{
+    position: absolute;
+    top: 23%;
+    left: 8%;
+    
+}
+.videoImgCombo img{
+    position: absolute;
+    top: 10%;
+    left: 0;
+
+}
+
+.secondSectionMedia {
+    position: relative;
+    display: block;
+    height: 490px;
+    width: 630px;
+    /* background-color: aqua; */
+}
+
+.girlInPhone {
+    position: absolute;
+    height: 400px;
+    bottom: 4%;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.phoneContainer {
+    width: 350px;
+    border: 2px solid rgb(80, 74, 74);
+    border-radius: 10px;
+    background-color: rgb(0, 0, 0);
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+    align-items: center;
+    position: absolute;
+    bottom: 7%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 2;
+}
+
+
+.phoneContainer h6{
+    color:white;
+}
+.phoneContainer p{
+    color:blue
+}
+
+

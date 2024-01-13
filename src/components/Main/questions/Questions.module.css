@@ -1,0 +1,48 @@
+.questionSection {
+  padding: 100px;
+  background-color: black;
+  /* border-top: 8px solid rgba(62, 60, 60, 0.525); */
+border-bottom: 8px solid rgba(62, 60, 60, 0.525);
+}
+.accordionItem {
+  font-size: 1rem;
+  margin-bottom: 10px;
+  border: none !important;
+  background-color: rgb(54, 53, 53) !important;
+  color: white !important;
+  font-size: 1.5rem;
+ 
+}
+#accordBlock {
+  width: 70%;
+
+  margin: auto;
+
+}
+
+#accordBlock button {
+    background-color: rgb(54, 53, 53) !important;
+    color: white !important;
+    font-size: 1.5rem;
+    line-height: 2rem;
+    padding: 1.5rem;
+   border-radius: 0;
+
+}
+.inputEmailTextContainer{
+display: flex;
+flex-direction: column;
+align-items: center;
+gap:10px;
+margin-top: 50px;
+color: white;
+font-size: 1.25rem;
+}
+
+.questionSection h1{
+  font-size: 3rem;
+  color: white;
+  font-weight: 800;
+  text-align: center;
+  margin-bottom: 40px;
+}
