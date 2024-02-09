@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bitmovie-react/static/css/main.089aa94a.css",
+    "main.js": "/bitmovie-react/static/js/main.9b813a64.js",
+    "static/js/787.032b9f54.chunk.js": "/bitmovie-react/static/js/787.032b9f54.chunk.js",
+    "static/media/mini.mp4": "/bitmovie-react/static/media/mini.681ce94292231849b138.mp4",
+    "static/media/mini2.mp4": "/bitmovie-react/static/media/mini2.87bc230aa2d9bce645ed.mp4",
+    "static/media/bg.png": "/bitmovie-react/static/media/bg.bdde8a499d27778ada79.png",
+    "static/media/boxshot.png": "/bitmovie-react/static/media/boxshot.486a5ecdb28b78f5d690.png",
+    "static/media/mobile-0819.jpg": "/bitmovie-react/static/media/mobile-0819.22ca8b729f723c261a3f.jpg",
+    "static/media/kids.png": "/bitmovie-react/static/media/kids.01ac1a4b0a56868f4076.png",
+    "static/media/tv.png": "/bitmovie-react/static/media/tv.0049bc70babc1f94cf88.png",
+    "index.html": "/bitmovie-react/index.html",
+    "main.089aa94a.css.map": "/bitmovie-react/static/css/main.089aa94a.css.map",
+    "main.9b813a64.js.map": "/bitmovie-react/static/js/main.9b813a64.js.map",
+    "787.032b9f54.chunk.js.map": "/bitmovie-react/static/js/787.032b9f54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.089aa94a.css",
+    "static/js/main.9b813a64.js"
+  ]
+}
