@@ -1,21 +1,18 @@
 .sectionContainer{
-/* display: grid;
-grid-template-columns: 1fr 1fr;
-grid-template-areas: 'text actions'; */
+
 display: flex;
+flex-wrap: wrap;
 gap:50px;
 align-items: center;
 background-color: black;
 height: 80vh;
 justify-content: center;
-/* border-top: 8px solid rgba(62, 60, 60, 0.525); */
 border-bottom: 8px solid rgba(62, 60, 60, 0.525);
 
 
 }
 .textContainer{
     width: 40%;
-    /* margin-left: 25%; */
     color: white;
 
 }
@@ -74,6 +71,7 @@ video{
     background-color: rgb(0, 0, 0);
     padding: 10px;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: row;
     gap: 15px;
     align-items: center;

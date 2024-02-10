@@ -17,7 +17,7 @@ _website design project_
 This project is for educational porpuses only. Using React components created landing page.
 Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://laimalp.github.io/
+Site published at: https://laimalp.github.io/Movie-landingpage-react-main/
 
 
 ## 🎯 Project features/goals

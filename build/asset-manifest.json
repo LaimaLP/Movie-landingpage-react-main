@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Movie-landingpage-react-main/static/css/main.682b8af3.css",
+    "main.js": "/Movie-landingpage-react-main/static/js/main.40acfcc9.js",
+    "static/js/787.032b9f54.chunk.js": "/Movie-landingpage-react-main/static/js/787.032b9f54.chunk.js",
+    "static/media/mini.mp4": "/Movie-landingpage-react-main/static/media/mini.681ce94292231849b138.mp4",
+    "static/media/mini2.mp4": "/Movie-landingpage-react-main/static/media/mini2.87bc230aa2d9bce645ed.mp4",
+    "static/media/bg.png": "/Movie-landingpage-react-main/static/media/bg.bdde8a499d27778ada79.png",
+    "static/media/boxshot.png": "/Movie-landingpage-react-main/static/media/boxshot.486a5ecdb28b78f5d690.png",
+    "static/media/mobile-0819.jpg": "/Movie-landingpage-react-main/static/media/mobile-0819.22ca8b729f723c261a3f.jpg",
+    "static/media/kids.png": "/Movie-landingpage-react-main/static/media/kids.01ac1a4b0a56868f4076.png",
+    "static/media/tv.png": "/Movie-landingpage-react-main/static/media/tv.0049bc70babc1f94cf88.png",
+    "index.html": "/Movie-landingpage-react-main/index.html",
+    "main.682b8af3.css.map": "/Movie-landingpage-react-main/static/css/main.682b8af3.css.map",
+    "main.40acfcc9.js.map": "/Movie-landingpage-react-main/static/js/main.40acfcc9.js.map",
+    "787.032b9f54.chunk.js.map": "/Movie-landingpage-react-main/static/js/787.032b9f54.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.682b8af3.css",
+    "static/js/main.40acfcc9.js"
+  ]
+}
